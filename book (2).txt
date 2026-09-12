@@ -1,0 +1,10 @@
+5-17-525281-3 C++ Programing, Davender Malik, 210
+3-7908-1335-4 Discrete Structures, Davender Malik, 185
+3-7908-1325-7 Fuzzy Mathematic, Davender Malik, 165
+0-239-23635-0 Data Structures, Shih-Chung Cheng, 240
+2-99521-453-1 Introduction to Web Programming, Mark Headington, 130
+0-521-43681-8 English Grammar in Use, Raymond Murphy, 75
+0-7637-8060-x JavaScript, John David Dionisio, 155
+0-201-40015-4 Calculus and Analytic geometry, George B. Thomas, 280
+0-19-431735-1 Oxford Wordpower, Oxford University, 37
+0-86134-022-1 The Camera Book, Mitcheil Beazley, 45
